@@ -6,7 +6,7 @@
 
 **Repo:** `git clone https://github.com/Cnets-io/fastapi-sqlalchemy-service-layer.git`
 
-**Assignment:** Clone this repository and submit to your own new Git repository.
+**Assignment:** Clone this repository and submit to your own new Git repository. Use Blackboard to submit your Git repository URL if public, or first add me as contributor so I can see your repository as well if you choose to keep it private.
 
 ---
 
