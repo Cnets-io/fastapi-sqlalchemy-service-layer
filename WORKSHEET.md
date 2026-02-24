@@ -57,7 +57,7 @@ fastapi-sqlalchemy-service-layer/
 
 ---
 
-## Setup (5 minutes)
+## Setup
 
 ```bash
 # 1. Clone the repository and create a new one that is no longer linked
@@ -82,7 +82,7 @@ The app will start but most routes will return errors until you complete the exe
 
 ---
 
-## Part 1 - Explore the Existing Code (10 minutes)
+## Part 1 - Explore the Existing Code
 
 Open each file and answer the questions in your own words.
 
@@ -117,10 +117,10 @@ Your answer:
 
 ---
 
-## Part 2 - Implement the Service Layer (40 minutes)
+## Part 2 - Implement the Service Layer 
 
 Open `services/item_service.py`. You will find stub functions with `TODO` comments.
-Implement each function. **Do not modify `app.py` or any file in `db/`.**
+Implement each function. **Do modify `app.py` as needed to make the UI components work accordingly.**
 
 ### Exercise 2.1 - `get_all_items`
 
