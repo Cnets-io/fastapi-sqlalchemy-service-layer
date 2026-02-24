@@ -191,7 +191,7 @@ def apply_discount(db: Session, percent: float) -> int:
 
 ---
 
-## Part 3 - Verify with the API (10 minutes)
+## Part 3 - Verify with the API 
 
 Open `http://127.0.0.1:8000/docs` (Swagger UI) and test each endpoint:
 
@@ -215,7 +215,7 @@ POST /items/discount status: ____
 
 ---
 
-## Part 4 - Reflection Questions (10 minutes)
+## Part 4 - Reflection Questions
 
 Answer in 2-3 sentences each.
 
